@@ -1,0 +1,44 @@
+body{
+    scroll-behavior: smooth;
+    background-color: rgb(215, 245, 250);
+}
+
+
+.input-work{
+    background-color:rgba(199, 161, 36, 0.164);
+    padding:20px;
+    border-radius: 20px;
+}
+
+.input-work input{
+
+    border-radius: 10px;
+    border:none;
+}
+
+.input-work input:focus{
+    outline: 0;
+}
+
+.btn{
+    border-radius: 15px;
+   border:none;
+}
+
+.btn:focus{
+    
+    background-color:rgb(241, 170, 229);
+    outline:0;
+}
+
+li{
+    text-align:center;
+    margin-top: 35px;
+    font-size: 25px;
+    padding: 10px;
+    list-style-type:none;
+    background-color:goldenrod;
+    margin-bottom: 25px;
+    border-radius:10px;
+    box-shadow: 5px 2px 2px 3px rgba(90, 89, 89, 0.288);
+}
